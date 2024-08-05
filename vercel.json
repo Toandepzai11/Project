@@ -7,7 +7,7 @@
     "routes": [
         {
             "src": "/static",
-            "dest": "project/wsgi.py"
+            "dest": "/static/$1"
         }
     ]
 }
